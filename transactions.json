@@ -1,0 +1,79 @@
+{
+    "kareena": {
+        "balance": 1129.45,
+        "history": [
+            {
+                "date": "2025-11-17 07:30:53",
+                "type": "Deposit",
+                "amount": 500.0,
+                "balance": 500.0
+            },
+            {
+                "date": "2025-11-17 07:31:16",
+                "type": "Deposit",
+                "amount": 700.0,
+                "balance": 1200.0
+            },
+            {
+                "date": "2025-11-17 07:31:23",
+                "type": "Withdrawal",
+                "amount": 60.0,
+                "balance": 1140.0
+            },
+            {
+                "date": "2025-11-21 07:00:03",
+                "type": "Deposit",
+                "amount": 12.45,
+                "balance": 1152.45
+            },
+            {
+                "date": "2025-11-21 07:04:08",
+                "type": "Withdrawal",
+                "amount": 23.0,
+                "balance": 1129.45
+            }
+        ]
+    },
+    "sekhon": {
+        "balance": 111111.0,
+        "history": [
+            {
+                "date": "2025-11-17 07:37:11",
+                "type": "Deposit",
+                "amount": 444444.0,
+                "balance": 444444.0
+            },
+            {
+                "date": "2025-11-17 07:37:18",
+                "type": "Withdrawal",
+                "amount": 333333.0,
+                "balance": 111111.0
+            }
+        ]
+    },
+    "admin": {
+        "balance": 0.0,
+        "history": []
+    },
+    "qwertz": {
+        "balance": 1110.0,
+        "history": [
+            {
+                "date": "2025-11-21 16:22:30",
+                "type": "Deposit",
+                "amount": 1233.0,
+                "balance": 1233.0
+            },
+            {
+                "date": "2025-11-21 16:22:38",
+                "type": "Withdraw",
+                "amount": 123.0,
+                "balance": 1110.0
+            }
+        ]
+    },
+    "qwerty": {
+        "balance": 0.0,
+        "history": []
+    }
+}
